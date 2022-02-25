@@ -1,0 +1,62 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid rgb(33, 85, 119);
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: rgb(33, 85, 119);
+}
+
+a:visited {
+	color: rgb(89, 138, 171);
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+header {
+	background-color: rgb(89, 138, 171);
+	border-radius: 10px;
+	height: 150px;
+	width: 500px;
+}
+
+ul {
+	background: rgb(33, 85, 119);
+	border-radius: 10px;
+	width: 460px;
+}
+
+h3, h4 {
+	color: rgb(189, 211, 225);
+}
+
+button {
+	background-color: yellow;
+	font-size: 20px;
+	border-radius: 10px;
+
+}
